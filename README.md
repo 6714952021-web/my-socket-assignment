@@ -14,3 +14,4 @@
 
 ### รูปการทำงานของ code
 <img width="1919" height="1031" alt="Screenshot 2026-11-27 111824" src="https://github.com/user-attachments/assets/c7a7c1a9-511c-41bc-a713-5a89c65871cc" />
+## 🌐 แบบฝึกหัดที่ 2: เว็บแอปพลิเคชัน Flask และ Socket Server
