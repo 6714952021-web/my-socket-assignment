@@ -1,0 +1,15 @@
+# รายงานแบบฝึกหัด Socket API & Docker (Assignment 1 & 2)
+
+**ข้อมูลผู้จัดทำ**
+* ชื่อ-นามสกุล: [ใส่ชื่อของคุณ]
+* รหัสนักศึกษา: [ใส่รหัสนักศึกษา]
+* กลุ่ม/เซคชัน: [ใส่กลุ่มเรียน]
+
+---
+
+## 🛠️ แบบฝึกหัดที่ 1: ระบบ Chat ด้วย Docker (2 Clients & 1 Server)
+
+### คำอธิบายการทำงาน
+ระบบแชทนี้ประยุกต์ใช้ Socket API แบบ TCP ในการส่งข้อมูลระหว่าง Client 2 ตัว ผ่าน Server กลาง โดยรันอยู่ในรูปแบบของ Docker Multi-container และใช้ Docker Compose ในการจัดการ
+###รูปการทำงานของ code
+<img width="1919" height="1031" alt="Screenshot 2026-11-27 111824" src="https://github.com/user-attachments/assets/c7a7c1a9-511c-41bc-a713-5a89c65871cc" />
