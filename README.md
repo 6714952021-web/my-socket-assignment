@@ -12,5 +12,5 @@
 ### คำอธิบายการทำงาน
 ระบบแชทนี้ประยุกต์ใช้ Socket API แบบ TCP ในการส่งข้อมูลระหว่าง Client 2 ตัว ผ่าน Server กลาง โดยรันอยู่ในรูปแบบของ Docker Multi-container และใช้ Docker Compose ในการจัดการ
 
-###รูปการทำงานของ code
+### รูปการทำงานของ code
 <img width="1919" height="1031" alt="Screenshot 2026-11-27 111824" src="https://github.com/user-attachments/assets/c7a7c1a9-511c-41bc-a713-5a89c65871cc" />
